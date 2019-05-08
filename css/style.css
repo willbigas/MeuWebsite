@@ -323,6 +323,26 @@ nav ul li a {
   text-align: left;
 }
 
+#botao-curriculo {
+  padding: 25px;
+}
+#botao-curriculo button {
+  width: 180px;
+  border-radius: 4px;
+}
+#botao-curriculo span {
+  font-family:'Poppins', helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+#botao-curriculo a {
+  color: white;
+}
+
+
+
 /*-----------------------------------------------------------------------------------*/
 /*   Services
 /*-----------------------------------------------------------------------------------*/
