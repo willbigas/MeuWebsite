@@ -15,6 +15,16 @@
     width: 450px;
     height: 300px;
   }
+
+  .rolldown {
+    margin-top: 45%;
+    margin-left: 48%;
+  
+  }
+
+  .rolldown li i {
+    font-size: 70px;
+  }
 }
 
 /** Width between 768px to 991px
@@ -90,6 +100,16 @@
   #map-responsive iframe {
     width: 700px;
     height: 200px;
+  }
+
+  .rolldown {
+    margin-top: 45%;
+    margin-left: 47%;
+  
+  }
+
+  .rolldown li i {
+    font-size: 70px;
   }
 
 }
@@ -420,6 +440,16 @@
   #map-responsive iframe {
     width: 320px;
     height: 200px;
+  }
+
+  .rolldown {
+    margin-top: 60%;
+    margin-left: 47%;
+  
+  }
+
+  .rolldown li i {
+    font-size: 30px;
   }
 
 }
