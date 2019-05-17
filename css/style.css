@@ -50,7 +50,7 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #b8a07e;
+  color: #2E2E2E;
   text-decoration: underline;
 }
 
@@ -196,7 +196,7 @@ nav ul li a {
   padding: 2px 0 0 0;
   position: relative;
   display: block;
-  font-size: 14px;
+  font-size: 18px;
   color: #999999;
   font-family: 'Poppins', helvetica;
   font-weight: 500;
@@ -283,7 +283,7 @@ nav ul li a {
 }
 
 .header-content .list-social li i:hover {
-  color: #616161;
+  color: #2E2E2E;
 }
 
 .rolldown {
@@ -443,7 +443,7 @@ nav ul li a {
 #portfolio .portfolio-list .nav li {
   margin: 0 40px 0 0;
   float: left;
-  font-size: 14px;
+  font-size: 18px;
   color: #999999;
   line-height: 16px;
   cursor: pointer;
@@ -459,12 +459,19 @@ nav ul li a {
 }
 
 #portfolio .portfolio-list .nav li:hover, #portfolio .portfolio-list .nav li.filter-active  {
-  color: #b8a07e;
+  color: #2E2E2E;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
   -webkit-transition: all 0.5s ease-in-out 0s;
   transition: all 0.5s ease-in-out 0s;
+}
+
+.link-acessar {
+  position: relative;
+  top: 10px;
+  padding: 5px;
+  font-size: 20px;
 }
 
 #portfolio .portfolio-container {
@@ -480,6 +487,9 @@ nav ul li a {
 }
 
 .portfolio-thumbnail img {
+  box-shadow: black 1px;
+  border: black solid 1px;
+  border-radius: 5px;
   max-width: 100%;
 }
 
@@ -642,7 +652,7 @@ nav ul li a {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #b8a07e;
+  color: #2E2E2E;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
